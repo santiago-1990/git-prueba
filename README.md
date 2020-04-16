@@ -1,0 +1,1 @@
+#Este es un ejercicio de clase para entender el uso de Git y Github
